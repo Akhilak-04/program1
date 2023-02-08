@@ -1,0 +1,43 @@
+
+        
+    
+        body{
+            text-align:center;
+            background-color: rgb(35, 158, 241);
+            font-style:italic;
+        }
+       
+        a.hover{
+            text-decoration: none;
+            color: aquamarine;
+
+        }
+        a.visited{
+            color: blue;
+        }
+        a.link{
+            color: brown;
+        }
+        table,th,td{
+            border:1px solid black;
+            border-collapse: collapse;
+        }
+        td{
+            text-align: center;
+        }
+        .demo{
+            text-align: center;
+        }
+        .demo2{
+
+            font-size: 50px;
+        }
+        .submit{
+            background-color: blueviolet;
+            color: black;
+            border: none;
+            border-radius: 35px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .submit
